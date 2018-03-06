@@ -1,6 +1,9 @@
 adxl345-python
 ==============
 
+### Note
+This code is old and obsolete, you should use the Adafruit code from here: https://github.com/adafruit/Adafruit_Python_ADXL345
+
 Raspberry Pi Python i2c library for the ADXL3453-axis MEMS accelerometer IC which is used in breakout boards like the Adafruit ADXL345 Triple-Axis Accelerometer (http://shop.pimoroni.com/products/adafruit-triple-axis-accelerometer).
 
 This library is a basic implementation of the i2c protocol for the IC offering a simple way to get started with it on the Raspberry Pi.
